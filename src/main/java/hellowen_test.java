@@ -7,5 +7,7 @@ public class hellowen_test {
         //more fun
         //be safe
         //line1
+        //line2
     }
+
 }
